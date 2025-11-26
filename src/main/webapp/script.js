@@ -13,4 +13,3 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   }
 });
 
-#testing auto deploy after this commit hehe
