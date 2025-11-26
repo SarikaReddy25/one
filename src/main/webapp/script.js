@@ -12,3 +12,5 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
     alert('Please fill out all fields.');
   }
 });
+
+#testing auto deploy after this commit hehe
