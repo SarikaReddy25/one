@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.210.238.199:8081/repository/myrepo/</url>
+		    <url>http://54.151.4.43:8081/repository/Sarika/</url>
 		</repository>
   	</distributionManagement>
 	
